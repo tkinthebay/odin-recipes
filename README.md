@@ -1,0 +1,1 @@
+A recipe website is created consisting of an index page and 3 linked recipe pages. The recipes are for lasagna, scallops, and brownies. Recipe pages include an image of the completed dish, ingredients, and steps to make the dish.
